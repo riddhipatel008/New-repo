@@ -1,6 +1,6 @@
 //TO test conflict
-//
-//
+
+
 #include<stdio.h>
 
 int main()
