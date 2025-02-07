@@ -5,6 +5,7 @@
 
 int main()
 {
-	printf("Hello\n");
+	printf("Hello Matrix\n");
+	printf("exit\n");
 	return 1;
 }
